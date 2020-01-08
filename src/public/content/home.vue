@@ -74,7 +74,7 @@
           <!-- 报警信息-报警数量 -->
           <el-card :body-style="{padding:0}" class="error-message">
             <h3 style="color: white">
-              <small>报警信息</small>
+              <small>报警信息a</small>
               <i
                 class="el-icon-refresh-right"
                 style="float: right;padding-top:4px;cursor: pointer"
