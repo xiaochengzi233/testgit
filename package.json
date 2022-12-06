@@ -12,7 +12,7 @@
     "echarts": "^4.5.0",
     "echarts-liquidfill": "^2.0.5",
     "element-ui": "^2.13.0",
-    "qs": "^6.9.1",
+    "qs": "^6.9.7",
     "vue": "^2.6.10",
     "vue-3d-model": "^1.2.2",
     "vue-router": "^3.1.3",
